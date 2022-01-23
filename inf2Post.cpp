@@ -10,5 +10,5 @@ void in2Pos()
 {
     printf("Hello\n");
     std::string ch = "string";
-    printf("%s", ch);
+    std::cout<<ch<<std::endl;
 }
